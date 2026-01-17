@@ -1,8 +1,8 @@
-# Product Requirements Document (PRD): OzLearn - Online Learning Platform for Australian Businesses
+# Product Requirements Document (PRD): HiRed learning - Online learning mangement platform built with Azure SWA
 
 ## 1. Document Overview
 ### 1.1 Purpose
-This PRD outlines the requirements for OzLearn, an online learning platform designed specifically for businesses in Australia. The platform aims to provide scalable, compliant, and customizable training solutions to help organizations upskill employees, ensure regulatory compliance, and foster professional development. It addresses the unique needs of the Australian market, including integration with local standards like those from the Australian Skills Quality Authority (ASQA) and Fair Work Ombudsman.
+This PRD outlines the requirements for HiRed Learning, an online learning platform designed specifically for businesses in Australia. The platform aims to provide scalable, compliant, and customizable training solutions to help organizations upskill employees, ensure regulatory compliance, and foster professional development. It addresses the unique needs of the Australian market, including integration with local standards like those from the Australian Skills Quality Authority (ASQA) and Fair Work Ombudsman.
 
 ### 1.2 Scope
 - **In Scope**: Core learning management system (LMS) features, user authentication, content creation tools, analytics, integrations with Australian HR systems (e.g., MYOB, Xero), and mobile accessibility.
